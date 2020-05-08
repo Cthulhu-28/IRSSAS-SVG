@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;700&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif !important;
+    font-size: 16px !important;
+}
+
+.navbar-btn {
+    box-shadow: none !important;
+    outline: none !important;
+    border: none !important;
+}
+
+
+.input-edit{
+    background-color: transparent;
+    border: none;
+    border-bottom: #c22753 2px solid;
+    padding: 0px;
+    border-radius: 0px;
+}
+
+.input-edit:hover, .input-edit:focus{
+    box-shadow: none;
+    outline: none;
+    border: none;
+    border-bottom: #c22753 2px solid;
+    background-color: transparent;
+}
+
+.btn,
+.btn:active,
+.btn:visited,
+.btn:focus {
+    background: #c22753 !important;
+    border: none !important;
+    outline: none !important;
+}
+
+.btn:hover{
+    background: #c22753 !important;   
+    border: none !important;
+    outline: none !important;
+}
+
+
+.main-title-wrapper{
+    margin-top: 60px;
+}
+
+.main-title{
+    font-weight: 700;
+}
+
+.btn-upload{
+    background-color: #c22753;
+    color: white;
+    padding: 6px;
+    border: none;
+    font-weight: 700;
+    transition: all 0.3s;
+    border-radius: 0px;
+}
+
+.btn-upload:focus, .btn-upload:hover{
+    cursor: pointer;
+    background-color: #8c1d3d !important;
+    color: white;
+    border-radius: 0px;
+
+}
+
+.svg-d-flex{
+    display:-ms-flexbox!important;
+    display:flex!important
+}
+
+.svg-flex-column{
+    -ms-flex-direction:column!important;
+    flex-direction:column!important
+}
+
+.svg-flex-grow-1{
+    -ms-flex-positive:1!important;
+    flex-grow:1!important
+}
+
+.svg-h-100{
+    height:100%!important
+}
+
+.svg-container{
+    /* width: 800px;  */
+    height: calc(100% - 300px); 
+    border:2px solid #303030; 
+}
+
+.btn-zoom{
+    width: 32px !important;
+    height: 32px !important;
+    padding: 0 !important;
+    border-radius: 100%;
+    margin-right: 16px;
+    /* padding-left: 1px !important; */
+}
+
+.t-2{
+    background-color: #e0e0e0;
+    padding: 16px;
+}
+
+.t-1{
+    background-color: #e0e0e0;
+    padding: 16px;
+}
+.t-3{
+    background-color: #e0e0e0 !important;
+    padding: 16px;
+}
+
+.h-30{
+    height: 30% !important;
+}
+.h-40{
+    height: 40% !important;
+}
+
+.h-20{
+    height: 20% !important;
+}
+.edit-title{
+    width: 100;
+    justify-content: center;
+}
+
+/* .icon-input{
+    display: block !important;
+    max-height: 50px;
+    min-height: 50px
+}
+
+.icon-input > *{
+    font-weight: 700 !important;
+} */

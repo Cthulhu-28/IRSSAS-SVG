@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <%- include('partials/header.ejs'); %>
+    <link rel="stylesheet" href="stylesheets/dropify.min.css">
+
+</head>
+
+<body>
+    <form action="/upload" enctype="multipart/form-data" method="POST">
+        <div id="main" class="d-flex justify-content-center main-title-wrapper">
+            <div class="column">
+                <div class="row d-flex justify-content-center">
+                    <h1 class="main-title">SVG EDITOR</h1>
+
+                </div>
+                <div class="row">
+                    <p>A simple SVG editor to edit the class and id the elements.</p>
+                </div>
+                <div class="row">
+                    <input type="text" class="form-control input-edit" id="name" name="name" style="margin-bottom: 10px; text-align: center;" placeholder="Enter the name of SVG">
+                </div>
+                <div class="row">
+                    <input id="svg" name="svg" type="file" class="dropify" data-allowed-file-extensions="svg" />
+
+                </div>
+                <div class="row" style="margin-top:0px">
+                    <input type="submit" class="btn-upload w-100" value="Upload">
+                </div>
+                <div class="row" style="margin-top: 10px;">
+                    <a class="btn btn-upload w-100" href="/list/svg">Or select a registered SVG </a>
+                </div>
+            </div>
+        </div>
+    </form>
+    <%- include('partials/scripts.ejs'); %>
+    <script src="js/dropify.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.dropify').dropify();
+        });
+    </script>
+</body>
+
+</html>

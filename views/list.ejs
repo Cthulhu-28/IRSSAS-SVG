@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <%- include('partials/header.ejs'); %>
+    <link rel="stylesheet" href="/stylesheets/dropify.min.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <div id="main" class="d-flex justify-content-center main-title-wrapper">
+            <div class="col">
+                <div class="row d-flex justify-content-center">
+                    <h1 class="main-title">SVG List</h1>
+                </div>
+                <div class="row d-flex justify-content-center">
+                    <table class="table w-50">
+                        <thead>
+                            <tr>
+                                <th scope="col">&nbsp;</th>
+                                <th scope="col">&nbsp;</th>
+                                <th scope="col">&nbsp;</th>
+                            </tr>
+                        </thead>
+                        <tbody id="componenttable">
+                            <%svgs.forEach(function(svg, index) {%>
+                            <tr>
+                                <td><%=svg.name%></td>
+                                <td>
+                                    <i class="fa fa-plus" style="color: #c22753"
+                                        onclick="location.href='/<%=svg.svg%>';"></i>
+                                </td>
+                                <td>
+                                    <i class="fa fa-delete" style="color: #c22753"
+                                        onclick="location.href='/<%=svg.svg%>';"></i>
+                                </td>
+                            </tr>
+                            <%});%>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <%- include('partials/scripts.ejs'); %>
+</body>
+
+</html>

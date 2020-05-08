@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="target"
+   viewBox="-0.5 -0.5 692 572"
+   height="572px"
+   width="692px"
+   version="1.1"
+   style="background-color: rgb(255, 255, 255);">
+	<style type="text/css">
+						#target a:hover .tt, #target a:active .tt{
+						fill:red;
+					}
+			
+			</style>
+  <g
+     id="g1216">
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1072"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 214,260 H 347 V 20 h 133" />
+      <a xlink:href="https://en.wikipedia.org/wiki/Bullseye_(target)"><rect
+       style="fill:#1d2d51;stroke:none"
+       id="rect1074"
+			class="tt"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="0"
+       x="480" /></a>
+     <a xlink:href="https://en.wikipedia.org/wiki/Bullseye_(target)"><g class="tt"
+       id="g1080"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1078">
+       
+        <text
+           style="font-weight:bold;font-size:12px;font-family:Roboto;text-anchor:middle;fill:#ffffff"
+           id="text1076"
+           font-weight="bold"
+           font-size="12px"
+						class="lol"
+           y="24"
+           x="585">Asadas</text>
+      </switch>
+		
+    </g>	</a>
+
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1082"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="40"
+       x="480" />
+    <g
+       id="g1088"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1086">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1084"
+           font-size="12px"
+           y="64"
+           x="585">Componentes</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1090"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 480,80 H 690" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1092"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="80.279999"
+       x="480" />
+    <g
+       id="g1098"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1096">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1094"
+           font-size="12px"
+           y="104"
+           x="585">Filtro</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1100"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 480,120.28 H 690" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1102"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="120.57"
+       x="480" />
+    <g
+       id="g1108"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1106">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1104"
+           font-size="12px"
+           y="144"
+           x="585">Visor</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1110"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 480,160.57 H 690" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1112"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="160"
+       x="480" />
+    <g
+       id="g1118"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1116">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1114"
+           font-size="12px"
+           y="184"
+           x="585">Niveles de Riesgo</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1120"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 480,200 H 690" />
+    <rect
+       style="fill:#1d2d51;stroke:none"
+       id="rect1122"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="280"
+       x="480" />
+    <g
+       id="g1128"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1126">
+        
+        <text
+           style="font-weight:bold;font-size:12px;font-family:Roboto;text-anchor:middle;fill:#ffffff"
+           id="text1124"
+           font-weight="bold"
+           font-size="12px"
+           y="304"
+           x="585">Información de proyecto</text>
+      </switch>
+    </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1130"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="320"
+       x="480" />
+    <g
+       id="g1136"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1134">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1132"
+           font-size="12px"
+           y="344"
+           x="585">Componentes</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1138"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 480,360 H 690" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1140"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="360.28"
+       x="480" />
+    <g
+       id="link_1"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1144">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:red"
+           id="text1142"
+           font-size="12px"
+           y="384"
+           x="585">Filtro</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1148"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 480,400.28 H 690" />
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1150"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 217,300 H 480" />
+    <rect
+       style="fill:#1d2d51;stroke:none"
+       id="rect1152"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="490"
+       x="480" />
+    <g
+       id="g1158"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1156">
+        
+        <text
+           style="font-weight:bold;font-size:12px;font-family:Roboto;text-anchor:middle;fill:#ffffff"
+           id="text1154"
+           font-weight="bold"
+           font-size="12px"
+           y="514"
+           x="585">Contatcto</text>
+      </switch>
+    </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1160"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="530"
+       x="480" />
+    <g
+       id="g1166"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1164">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1162"
+           font-size="12px"
+           y="554"
+           x="585">Información general</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1168"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 480,570 H 690" />
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1170"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 217,342 H 348.5 V 500 H 480" />
+    <circle
+       style="fill:#00b396;stroke:none"
+       r="4"
+       id="ellipse1172"
+       pointer-events="all"
+       cy="260"
+       cx="213" />
+    <rect
+       style="fill:#1d2d51;stroke:none"
+       id="rect1174"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="200"
+       x="4" />
+    <g
+       id="g1180"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1178">
+        
+        <text
+           style="font-weight:bold;font-size:12px;font-family:Roboto;text-anchor:middle;fill:#ffffff"
+           id="text1176"
+           font-weight="bold"
+           font-size="12px"
+           y="224"
+           x="109">Pantalla Principal</text>
+      </switch>
+    </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1182"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="240"
+       x="4" />
+    <g
+       id="g1188"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1186">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1184"
+           font-size="12px"
+           y="264"
+           x="109">Información ASADA</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1190"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 4,280 H 214" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1192"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="280"
+       x="0" />
+    <g
+       id="g1198"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1196">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1194"
+           font-size="12px"
+           y="304"
+           x="105">Información Proyecto</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1200"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 0,320 H 210" />
+    <circle
+       style="fill:#00b396;stroke:none"
+       r="4"
+       id="ellipse1202"
+       pointer-events="all"
+       cy="300"
+       cx="213" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect1204"
+       pointer-events="all"
+       height="40"
+       width="210"
+       y="320"
+       x="4" />
+    <g
+       id="g1210"
+       transform="translate(-0.5,-0.5)">
+      <switch
+         id="switch1208">
+        
+        <text
+           style="font-size:12px;font-family:Roboto;text-anchor:middle;fill:#4c4c4c"
+           id="text1206"
+           font-size="12px"
+           y="344"
+           x="109">Contatcto</text>
+      </switch>
+    </g>
+    <path
+       style="fill:none;stroke:#868686;stroke-miterlimit:10"
+       id="path1212"
+       pointer-events="stroke"
+       stroke-miterlimit="10"
+       d="M 4,360 H 214" />
+    <circle
+       style="fill:#00b396;stroke:none"
+       r="4"
+       id="ellipse1214"
+       pointer-events="all"
+       cy="342"
+       cx="213" />
+  </g>
+  <switch
+     id="switch1224">
+    <g
+       id="g1218"
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" />
+    <a
+       id="a1222"
+       target="_blank"
+       xlink:href="https://desk.draw.io/support/solutions/articles/16000042487"
+       transform="translate(0,-5)">
+      <text
+         id="text1220"
+         y="100%"
+         x="50%"
+         font-size="10px"
+         text-anchor="middle">Viewer does not support full SVG 1.1</text>
+    </a>
+  </switch>
+</svg>

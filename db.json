@@ -1,0 +1,188 @@
+{
+  "svgs": [
+    {
+      "name": "rutas admin",
+      "svg": "svg-1588297978733"
+    },
+    {
+      "name": "rutas admin",
+      "svg": "svg-1588298101242"
+    },
+    {
+      "name": "prueba",
+      "svg": "svg-1588309363092"
+    },
+    {
+      "name": "prueba 2",
+      "svg": "svg-1588709987031"
+    },
+    {
+      "name": "rutas general",
+      "svg": "svg-1588887552049"
+    }
+  ],
+  "data": [
+    {
+      "svg": "svg-1588309363092",
+      "classes": [
+        {
+          "class": "grande",
+          "style": "fill:red;"
+        },
+        {
+          "class": "grande2",
+          "style": "fill:blue;"
+        },
+        {
+          "class": "moya",
+          "style": "fill:red;"
+        }
+      ],
+      "ids": [
+        {
+          "id": "ariana",
+          "link": "https://google.com"
+        },
+        {
+          "id": "ariana2",
+          "link": "https://google.com"
+        },
+        {
+          "id": "steven",
+          "link": "https://github.com/typicode/lowdb/tree/master/examples#server"
+        },
+        {
+          "id": "steven2",
+          "link": "http://localhost:8000/svg-1588309363092"
+        }
+      ]
+    },
+    {
+      "svg": "svg-1588887552049",
+      "classes": [
+        {
+          "class": "rect",
+          "style": "fill: #868686;"
+        },
+        {
+          "class": "text",
+          "style": "fill:#1d2d51;\nfont-weight:bold;"
+        }
+      ],
+      "ids": [
+        {
+          "id": "rect_contacto",
+          "link": "/infoGeneral"
+        },
+        {
+          "id": "text_contacto",
+          "link": "/infoGeneral"
+        },
+        {
+          "id": "rect_auth",
+          "link": "/"
+        },
+        {
+          "id": "text_auth",
+          "link": "/"
+        },
+        {
+          "id": "rect_forgot",
+          "link": "/"
+        },
+        {
+          "id": "text_forgot",
+          "link": "/"
+        },
+        {
+          "id": "rect_enter",
+          "link": "/"
+        },
+        {
+          "id": "rect_info_asada",
+          "link": "/"
+        },
+        {
+          "id": "text_info_asada",
+          "link": "/mapa"
+        },
+        {
+          "id": "rect_mapa",
+          "link": "/mapa"
+        },
+        {
+          "id": "text_mapa",
+          "link": "/mapa"
+        },
+        {
+          "id": "text_ing",
+          "link": "/"
+        },
+        {
+          "id": "rect_change",
+          "link": "/"
+        },
+        {
+          "id": "text_change",
+          "link": "/"
+        },
+        {
+          "id": "rect_soli",
+          "link": "/solicitudRegistroAsada"
+        },
+        {
+          "id": "text_soli",
+          "link": "/solicitudRegistroAsada"
+        },
+        {
+          "id": "rect_stats",
+          "link": "/verEstadisticasGenerales"
+        },
+        {
+          "id": "text_stats",
+          "link": "/verEstadisticasGenerales"
+        },
+        {
+          "id": "rect_info_royecto",
+          "link": "/#welcome"
+        },
+        {
+          "id": "text_info_proyecto",
+          "link": "/#welcome"
+        },
+        {
+          "id": "rect_expl",
+          "link": "/#welcome"
+        },
+        {
+          "id": "text_expl",
+          "link": "/#welcome"
+        },
+        {
+          "id": "rect_comp",
+          "link": "/#components"
+        },
+        {
+          "id": "text_comp",
+          "link": "/#components"
+        },
+        {
+          "id": "rect_perct",
+          "link": "/#percentages"
+        },
+        {
+          "id": "text_pertc",
+          "link": "/#percentages"
+        },
+        {
+          "id": "rect_asada",
+          "link": "/#asadas"
+        },
+        {
+          "id": "text_asadas",
+          "link": "/#asadas"
+        }
+      ]
+    }
+  ]
+}
